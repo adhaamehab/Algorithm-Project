@@ -1,0 +1,16 @@
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+C:\Users\HossamEissa\Desktop\project\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.exe
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.pdb
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.exe
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\bin\Release\ImageQuantization.pdb
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csprojResolveAssemblyReference.cache
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.MainForm.resources
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.Properties.Resources.resources
+C:\Users\higazy\Desktop\project1\ImageQuantization\ImageQuantization\ImageQuantization\obj\Release\ImageQuantization.csproj.GenerateResource.Cache
